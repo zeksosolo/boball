@@ -1,0 +1,36 @@
+/* style.css */
+
+/* Gaya umum */
+body {
+    background-color: #f8f9fa; /* Light gray background */
+}
+
+.container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* Gaya Header GoBall */
+.header-goball {
+    background-color: #007bff; /* Primary Blue */
+    color: white;
+    padding: 15px 0;
+}
+.header-goball h1 {
+    margin: 0;
+}
+
+/* Gaya Card */
+.card-header {
+    font-weight: bold;
+}
+
+/* Gaya untuk countdown timer */
+#countdownTimer {
+    font-size: 18px;
+    padding: 15px;
+}
+
+#timerDisplay {
+    font-family: 'Courier New', Courier, monospace;
+}
